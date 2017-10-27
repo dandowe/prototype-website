@@ -18,5 +18,11 @@ describe 'Prototype App' do
   get '/names'
   expect(last_response.body).to include "Prototype Inc."
   end
+  
+  it 'displays the correct text'do
+    get '/names'
+    expect(last_response.body). to include "Home of the World's Best Prototypes"
+    end
 
 end
+
