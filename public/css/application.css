@@ -8,3 +8,7 @@ body {
   border: solid 2px #BEE3BD;
   color: #555B6E;
 }
+
+.container-fluid { 
+  color: #FF0000;
+}
