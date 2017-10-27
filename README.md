@@ -1,4 +1,4 @@
 Prototype Website
 ==================
 
-Built by Dan Dowe & Carter Mah
+The Best Prototype Website Ever
