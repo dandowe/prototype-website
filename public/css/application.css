@@ -9,6 +9,12 @@ body {
   color: #555B6E;
 }
 
-.container-fluid { 
+.navbar { 
+  background-color: #BEE3DB;
   color: #FF0000;
 }
+
+.navbar-text { 
+  color: #FF0000 !important;
+}
+
